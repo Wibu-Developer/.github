@@ -1,2 +1,2 @@
 # .github
-YWDH SIH, gak usah diliat 
+Wibu Developer adalah kelompok kreatif dan bersemangat yang terdiri dari para pengembang perangkat lunak dan teknologi dengan minat mendalam dalam budaya populer Jepang, seperti anime, manga, dan permainan video. Tim ini secara unik menggabungkan dedikasi mereka terhadap pemrograman dan desain dengan cinta mereka terhadap elemen-elemen budaya pop Jepang, menciptakan pengalaman teknologi yang unik dan menarik. Dengan fokus pada inovasi dan kreasi, Wibu Developer berkomitmen untuk menghasilkan solusi perangkat lunak yang menghibur dan bermanfaat, sambil tetap mempertahankan semangat komunitas wibu di seluruh produk dan layanan yang mereka hasilkan.
